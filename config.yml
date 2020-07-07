@@ -1,9 +1,9 @@
 title: test1
 description: test
 steps:
-  - course: githubtraining/introduction-to-github
-    description: The first step in your course
-  - link: 'https://lab.github.com'
+  - course: test1
+    description: test1
+  - link: 'javascript:alert(1);'
     title: Check out Learning Lab for more courses!
     description: >-
       There are many more courses available on Learning Lab for you to check
